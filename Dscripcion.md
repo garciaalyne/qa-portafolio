@@ -19,8 +19,9 @@ Herramientas
 Jira
 Google Sheets
 Chrome DevTools
+
 Resultados
-Más de 15 bugs identificados y documentados.
+Se encuentran bugs identificados y documentados.
 Mejora en la estabilidad de funcionalidades clave.
 Validación exitosa de flujos críticos de usuario.
 
