@@ -66,5 +66,5 @@ Metodologías Ágiles (Scrum)
 Git/GitHub
 Contacto
 📧 garciaalyne2@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/alyne-garcia⁠�
+💼 LinkedIn: www.linkedin.com/in/alyne-garcia-957b19243
 📍 Ciudad de México, México
