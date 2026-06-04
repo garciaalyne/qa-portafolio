@@ -64,6 +64,7 @@ Java
 JavaScript
 Metodologías Ágiles (Scrum)
 Git/GitHub
+
 Contacto
 📧 garciaalyne2@gmail.com
 💼 LinkedIn: www.linkedin.com/in/alyne-garcia-957b19243
