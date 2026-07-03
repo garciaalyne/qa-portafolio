@@ -122,7 +122,7 @@
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/alyne-garcia
+www.linkedin.com/in/alynegarciar
 
 📍 Ciudad de México
 
